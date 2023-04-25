@@ -2,7 +2,7 @@ Hi, I'm Wesley.
 
 I'm currently a student studying computer science at the University of Colorado at Boulder. I'm currently working on a Sentiment Analysis project, where I'm training a machine learning model to classify movie reviews as positive or negative based on their content. Stay tuned for updates on my progress and feel free to reach out if you're interested in collaborating or learning more!
 
-In School, I’m currently exploring the fascinating P vs NP problem, as well as Lazy Functional Programming in Scala.
+In School, I’m currently exploring the fascinating P vs NP problem, as well as Object Oriented Programming in Scala.
 
 Outside of School, I'm focused on learning more about Artificial Intelligence and the development techniques used to create powerful, accurate, and efficient models.
 
